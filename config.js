@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/hero1.webp",
   "heroImage2": "assets/hero2.webp",
   "heroCaption": "From farm to your customers",
-  "buyer": "The Harbour Café",
+  "buyer": "Dales Visitor Café",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
